@@ -1,0 +1,515 @@
+/* header */
+header{
+position: absolute;
+width: 1440px;
+height: 107px;
+left: 0px;
+top: 0px;
+}
+
+/* logo */
+.logo{
+    position: absolute;
+    left: 6.01%;
+    right: 91.15%;
+    top: 17.81%;
+    bottom: 19.63%;
+    width: 60px;
+    height: 60px;
+    top: 19.06px;
+    left: 86.6px; 
+    }
+
+/* nav */
+.nav{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+position: absolute;
+left: 75.17%;
+right: 5.13%;
+top: 34.58%;
+bottom: 34.58%;
+}
+
+
+/* about */
+.nav-bar{
+position: static;
+width: 88px;
+height: 33px;
+left: 0px;
+top: 0px;
+font-family: Gilroy-Regular;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 33px;
+color: #828282;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 53px;
+text-decoration: none;
+}
+
+/* say hello */
+.nav-bar-2{
+position: absolute;
+width: 138px;
+height: 33px;
+left: 141px;
+top: 0px;
+font-family: Gilroy-Regular;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 33px;
+color: #828282;
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 53px;
+text-decoration: none;
+}
+
+/* wave icon */
+.wave-icon{
+position: absolute;
+left: 110%;
+right: 0%;
+top: 6.06%;
+bottom: 9.09%;
+
+}
+/* End header */
+
+/* main area */
+.main-text{
+position: absolute;
+width: 859px;
+height: 472px;
+left: 87px;
+top: 164px;
+font-family: Gilroy-Bold;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 59px;
+color: #BDBDBD;
+
+}
+
+
+span{
+    color: #2C2C2C; 
+}
+.work-link{
+    text-decoration-style: dotted;
+    text-underline-offset: 10px;
+    text-decoration-thickness: .150em;
+    color: #2C2C2C;
+}
+
+.say-hello-link{
+    text-decoration-style: dotted;
+    text-underline-offset: 10px;
+    text-decoration-thickness: .150em;  
+    color: #2C2C2C;  
+}
+
+/* atom logo */
+
+.atom-logo{
+position: absolute;
+width: 300px;
+height: 300px;
+left: 1051px;
+top: 219px;
+
+}
+
+
+/* scroll */
+.scroll{
+position: absolute;
+width: 199px;
+height: 29px;
+left: 620px;
+top: 693px;
+font-family: Gilroy-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+color: #828282;
+margin-top: 0px;
+text-decoration: none;
+}
+
+/* end scroll */
+
+/* hollerena section */
+.hollerena-logo{
+position: absolute;
+left: 2.01%;
+right: 68.89%;
+top: 28.44%;
+bottom: 64.19%;
+width: 419px;
+height: 212px;
+top: 818px;
+left: 29px;
+}
+
+.hollerena-text{
+position: absolute;
+width: 368px;
+height: 116px;
+left: 123px;
+top: 995px;
+font-family: Gilroy-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+color: #2C2C2C;
+}
+
+.hollerena-text-2{
+position: absolute;
+width: 380px;
+height: 66px;
+left: 123px;
+top: 1140px;
+font-family: Gilroy-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+color: #2C2C2C;
+font-weight: 400;
+color: #2c2c2c;
+
+}
+
+.case-study-btn{
+    position: absolute;
+    width: 350px;
+    height: 43px;
+    left: 105px;
+    top: 1250px;
+    font-family: Gilroy-Regular;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    color: #828282;
+    text-decoration-style: dotted;
+    text-underline-offset: 10px;
+    text-decoration-thickness: .200em;
+}
+
+.case-study-icon{
+    position: static;
+    width: 32px;
+    height: 32px;
+    left: 392px;
+    top: 1222px;
+    
+}
+
+.hollerena-laptop{
+position: absolute;
+width: 888px;
+height: 568px;
+left: 523px;
+top: 799px;
+
+}
+
+/* end hollerena section */
+
+/* liberterre section */
+
+.rectangle{
+position: absolute;
+width: 1500px;
+height: 596px;
+left: 0px;
+top: 1474px;
+background: #F2F2F2;
+}
+
+
+.liberterra-mobile{
+position: absolute;
+width: 562px;
+height: 570px;
+left: 110.5px;
+top: 1474px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.2));
+}
+
+.liberterra-logo{
+position: absolute;
+width: 343px;
+height: 94px;
+left: 986.5px;
+top: 1564px;
+
+}
+.liberterra-text{
+position: absolute;
+width: 340px;
+height: 58px;
+left: 989.5px;
+top: 1696px;
+font-family: Gilroy-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: right;
+color: #2C2C2C;
+}
+
+.liberterra-text-2{
+position: absolute;
+width: 380px;
+height: 88px;
+left: 1095px;
+top: 1820px;
+font-family: Gilroy-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: right;
+color: #2C2C2C;
+}
+
+.liberterra-case-study{
+position: absolute;
+width: 318px;
+height: 43px;
+left: 1030px;
+top: 1950px;
+font-family: Gilroy-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+text-align: right;
+color: #828282;
+text-decoration-style: dotted;
+text-underline-offset: 10px;
+text-decoration-thickness: .200em;
+}
+
+/* end liberterra section */
+
+/* popper blog section */
+
+.popperblog-logo{
+position: absolute;
+width: 162px;
+height: 144px;
+left: 94px;
+top: 2185px;
+}
+
+.popper-blog-text{
+position: absolute;
+width: 340px;
+height: 58px;
+left: 100px;
+top: 2354px;
+font-family: Gilroy-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+color: #2C2C2C;
+}
+
+.popper-blog-text-2{
+position: absolute;
+width: 380px;
+height: 88px;
+left: 100px;
+top: 2480px;
+font-family: Gilroy-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+color: #2C2C2C;
+}
+
+.poper-blog-case-study{
+position: absolute;
+width: 320px;
+height: 43px;
+left: 100px;
+top: 2600px;
+font-family: Gilroy-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+color: #828282;
+text-decoration-style: dotted;
+text-underline-offset: 10px;
+text-decoration-thickness: .200em;
+}
+
+.popper-blog-case-study-icon{
+position: static;
+width: 32px;
+height: 32px;
+left: 320px;
+top: 2572px;
+}
+
+.popper-blog-screen{
+position: absolute;
+width: 690px;
+height: 496px;
+left: 656px;
+top: 2181px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.05));
+}
+
+/* end popper blog section */
+
+/* start footer */
+
+footer{
+position: absolute;
+width: 1440px;
+height: 150px;
+left: 0px;
+top: 2785px;
+
+}
+
+
+.footer-links{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+position: absolute;
+left: 3.3%;
+right: 64.69%;
+top: 70%;
+bottom: 20.88%;
+}
+
+.link-1{
+position: static;
+width: 71px;
+height: 25px;
+left: 0px;
+top: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+color: #4111E8;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 50px;
+text-decoration: none;
+}
+
+.link-2{
+position: static;
+width: 60px;
+height: 25px;
+left: 121px;
+top: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+color: #FF7DBD;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 50px;
+text-decoration: none;
+}
+
+.link-3{
+position: static;
+width: 65px;
+height: 25px;
+left: 231px;
+top: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+color: #00acee;
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 50px;
+text-decoration: none;
+}
+
+.link-4{
+position: static;
+width: 66px;
+height: 25px;
+left: 346px;
+top: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+color: #2C2C2C;
+flex: none;
+order: 3;
+flex-grow: 0;
+margin: 0px 50px;
+text-decoration: none;
+}
+
+.copyright-text{
+position: absolute;
+left: 77.85%;
+right: 3.33%;
+top: 51.65%;
+bottom: 20.88%;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+color: #2C2C2C;
+}
+
+/* end footer */
